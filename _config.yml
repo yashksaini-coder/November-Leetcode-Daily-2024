@@ -1,8 +1,8 @@
-title: title
-description: A Repository to maintain my monthly Leetcode Coding session 2024
+title: November-Leetcode-Daily-2024
+description: A Repository to maintain my November Leetcode Coding session 2024
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-hacker
+theme: jekyll-theme-midnight
 markdown: GFM
 include:
   - README.md
